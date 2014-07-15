@@ -1,9 +1,14 @@
 CACHE MANIFEST
-# Revision 1405401146716
+# Revision 1405411210695
 
 CACHE:
-index.html
 two-way_data_binding/README.html
+index.html
+two-way_data_binding/apply.html
+two-way_data_binding/controller.html
+two-way_data_binding/expression.html
+two-way_data_binding/dependency_injection.html
+two-way_data_binding/scope.html
 two-way_data_binding/two-way_data_binding.html
 gitbook/app.js
 gitbook/fonts/fontawesome/FontAwesome.otf
