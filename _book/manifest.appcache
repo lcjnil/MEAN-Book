@@ -1,14 +1,16 @@
 CACHE MANIFEST
-# Revision 1405411210695
+# Revision 1405506234488
 
 CACHE:
-two-way_data_binding/README.html
 index.html
+other_article/using_json_web_tokens_with_nodejs.html
+two-way_data_binding/README.html
 two-way_data_binding/apply.html
 two-way_data_binding/controller.html
-two-way_data_binding/expression.html
 two-way_data_binding/dependency_injection.html
+two-way_data_binding/expression.html
 two-way_data_binding/scope.html
+two-way_data_binding/service.html
 two-way_data_binding/two-way_data_binding.html
 gitbook/app.js
 gitbook/fonts/fontawesome/FontAwesome.otf
